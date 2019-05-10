@@ -9,6 +9,7 @@ def second_challenge
   #code your solution here!
 
   groceries.each do |food_types, food| 
-    food.each do ||
+    food.each do |details, data|
+      
 
 end
