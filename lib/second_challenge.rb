@@ -8,9 +8,8 @@ def second_challenge
 
   #code your solution here!
 
-  groceries.collect do |food_types, food| 
-    food.each do |details, values|
-    end
-    end
+  array = groceries.values
+
+ array.flatten
 
 end
