@@ -10,7 +10,7 @@ def second_challenge
 
   groceries.each do |food_types, food| 
     food.each do |details, values|
-      
-      
+    end
+    end
 
 end
